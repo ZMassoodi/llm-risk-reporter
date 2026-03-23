@@ -20,8 +20,7 @@ using Black-Scholes formula and generates summaries using the Anthropic API.
 
 ## Design decisions
 - All numerical computation is done in Python 
-- This mitigates hallucination risk in a financial context where 
-  incorrect numbers could inform bad decisions
+- This reduces hallucination risk where bad numbers could inform bad decisions
 - Raw Greeks are always displayed alongside the LLM output so 
   we can sanity check narrative
 
