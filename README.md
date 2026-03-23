@@ -1,5 +1,5 @@
 ## Motivation
-LLM usage is increasingly relevant to risk management workflows — specifically
+LLM usage is increasingly relevant to risk management workflows specifically
 summarising a proposed trade's risk profile quickly for a risk manager.
 
 Inspired by reviewing qrisklab by Bilal Bai, who provides 
