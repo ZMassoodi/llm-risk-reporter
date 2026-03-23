@@ -26,11 +26,10 @@ using Black-Scholes formula and generates summaries using the Anthropic API.
 
 ## Tech stack
 - Python
-- scipy / numpy — Black-Scholes implementation
-- Anthropic API — LLM narrative generation
+- scipy / numpy
+- Anthropic API
 
 ## Usage
-1. Open llm_risk_reporter.ipynb in Jupyter
-2. Run Cell 1 set with your Anthropic API key
-3. Update position inputs in Cell 3
-4. Run all cells to generate the risk report
+1. Run Cell 1 set with your Anthropic API key
+2. Input trade position in Cell 3
+3. Run all cells to generate the risk report
